@@ -1,0 +1,15 @@
+C:\Users\thur0\Documents\yukio\Troco\bin\Debug\net7.0\Troco.exe
+C:\Users\thur0\Documents\yukio\Troco\bin\Debug\net7.0\Troco.deps.json
+C:\Users\thur0\Documents\yukio\Troco\bin\Debug\net7.0\Troco.runtimeconfig.json
+C:\Users\thur0\Documents\yukio\Troco\bin\Debug\net7.0\Troco.dll
+C:\Users\thur0\Documents\yukio\Troco\bin\Debug\net7.0\Troco.pdb
+C:\Users\thur0\Documents\yukio\Troco\obj\Debug\net7.0\Troco.csproj.AssemblyReference.cache
+C:\Users\thur0\Documents\yukio\Troco\obj\Debug\net7.0\Troco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thur0\Documents\yukio\Troco\obj\Debug\net7.0\Troco.AssemblyInfoInputs.cache
+C:\Users\thur0\Documents\yukio\Troco\obj\Debug\net7.0\Troco.AssemblyInfo.cs
+C:\Users\thur0\Documents\yukio\Troco\obj\Debug\net7.0\Troco.csproj.CoreCompileInputs.cache
+C:\Users\thur0\Documents\yukio\Troco\obj\Debug\net7.0\Troco.dll
+C:\Users\thur0\Documents\yukio\Troco\obj\Debug\net7.0\refint\Troco.dll
+C:\Users\thur0\Documents\yukio\Troco\obj\Debug\net7.0\Troco.pdb
+C:\Users\thur0\Documents\yukio\Troco\obj\Debug\net7.0\Troco.genruntimeconfig.cache
+C:\Users\thur0\Documents\yukio\Troco\obj\Debug\net7.0\ref\Troco.dll
